@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/843f5000-0220-4844-a411-fdaa44642cdb)# E-Commerce System
+# E-Commerce System
 
 A simple Java-based e-commerce system
 ## Features
